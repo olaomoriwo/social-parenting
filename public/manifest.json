@@ -1,0 +1,13 @@
+{
+  "name": "The Social Parenting",
+  "short_name": "SocialParenting",
+  "description": "Turn chores into champions.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0F1B2D",
+  "theme_color": "#0F1B2D",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
